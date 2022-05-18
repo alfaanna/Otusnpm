@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alfaanna/Otusnpm/issues"
   },
-  "homepage": "https://github.com/alfaanna/Otusnpm#readme"
+  "homepage": "https://github.com/alfaanna/Otusnpm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
