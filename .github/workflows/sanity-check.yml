@@ -15,18 +15,6 @@ jobs:
       - name: Lint check
         run: |
           npm run lint
-      - name: Lint check
+      - name: Lint test
         run: |
           npm run test
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
